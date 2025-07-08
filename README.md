@@ -1,7 +1,4 @@
-Okay, I understand. For the Resume Matcher app, I will focus the README on the core solution and the fine-tuning aspect of the model, without going into the full MLOps pipeline or detailed code structure.
-
-Here's the focused content for your Resume Matcher project:
-
+🔗 👉 **[Watch the Demo on YouTube](https://www.youtube.com/watch?v=JHRHpaTjnSg&list=PLe-YIIlt-fbPMDsmSXbzQuyBeRKfvs__T&index=1&ab_channel=Jatin)**
 ---
 
 # 🔍 Resume Matcher Solution
@@ -44,3 +41,10 @@ The intelligence behind our Resume Matcher lies in its core component: a **fine-
 The solution is delivered through a user-friendly Streamlit web application. Simply upload your PDF resume, paste a job description, and instantly receive a similarity score, allowing for quick and informed decisions about job fit.
 
 ---
+## 🙋‍♂️ Let's Connect
+
+* **💼 LinkedIn:** [www.linkedin.com/in/jatin557](https://www.linkedin.com/in/jatin557)
+* **📦 GitHub:** [https://github.com/jatinydav557](https://github.com/jatinydav557)
+* **📬 Email:** [jatinydav557@gmail.com](mailto:jatinydav557@gmail.com)
+* **📱 Contact:** [`+91-7340386035`](tel:+917340386035)
+* **🎥 YouTube:** [Checkout my other working projects](https://www.youtube.com/@jatinML/playlists)
